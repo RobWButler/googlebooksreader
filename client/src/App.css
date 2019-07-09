@@ -1,0 +1,60 @@
+body{
+  color: lightgray;
+}
+
+.banner{
+  padding: 2vh 0vh 0vh 1vh;
+  height: 8vh;
+  width: 100%;
+  background-color: crimson;
+  border-bottom: solid 2px gray;
+  margin-bottom: 2vh;
+}
+
+.homeButton{
+  font-size: 18pt;
+  font-weight: bolder;
+  color: white;
+  float: left;
+}
+
+.headerButton{
+  padding-top: .8vh;
+  float: left;
+  padding-left: 3rem;
+  color: white;
+}
+
+a:hover{
+  color: darkred;
+  text-decoration: none;
+}
+
+.page-container{
+  padding: 2rem;
+  margin: 0 auto;
+  width: 80vw;
+}
+
+.jumbotron{
+  text-align: center;
+  font-size: 24pt;
+  font-weight: bold;
+  background-color: lightcoral;
+  color: rgb(255, 255, 255);
+}
+
+.resultcard{
+  padding: 1vw;
+  color: black;
+  background-color: whitesmoke;
+  box-shadow: -2pt 2pt 2pt lightcoral;
+  margin-top: 5px;
+}
+
+.resultsbtn{
+  float: right;
+  clear: both;
+  top: 0;
+  right: 0;
+}
